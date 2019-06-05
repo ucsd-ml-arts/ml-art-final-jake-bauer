@@ -1,12 +1,10 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Jaka Bauer, jjbauer@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+For my final project, I'll revisit my generative sketch project. I was dissappointed in this project, as I felt it failed my artistic concept even though I spent a large amount of time on collecting the data. In revisiting this project, I'm first going to get the code to successfully generate the river sketches I wanted to acheive in the original. Then, I'll move on to modifying the generation code to "predict" a river sketch given an incomplete sketch. I plan on referencing the way the sketchRNN examples predict user input to generate an array of possible sketches. As my "user input" I will draw vector drawings of rivers I'm interested in. Ideally if i have time I would use edge detection to fully automate this vector drawing proccess so I could just input the satellite image of the river I'm interested in--but I feel that is too ambitious of a plan considering the limited amount of time I have. As far as presenting, I will introduce the work of Carolina Caycedo as the inspiration for my project, especially my interest in Caycedo's use of scale, inversion, and imagination and how I adapted that in my own rendition. To polish the product from an artistic standpoint, I will print the satellite images I used to generate the rivers and paint with ink on top of the path that my RNN sketches for me (I'll be using materials that I already have from taking a calligraphy course). I really enjoy the tactileness of creating art with my own hands, and I don't want to completely disconnect art from the human. In this way I want my RNN to be more of a companion to help me imagine my sketches--since in theory it should have a more nuanced understanding of the flow/shape of a river.
 
 ## Project Report
 
