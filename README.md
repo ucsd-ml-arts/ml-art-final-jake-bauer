@@ -24,7 +24,7 @@ A stylized hand-rendered result is seen on cover of report.
 
 ## Technical Notes
 
-- Uses Colab, so you have to upload files to Drive and mount drive to Colab environment to get this to work. Also note that youre path names will be different than mine so you must change them to match your file locations in your drive in the code.
+- Uses Colab, so you have to upload files to Drive and mount drive to Colab environment to get this to work. Also note that your path names will be different than mine so you must change them to match your file locations in your drive in the code.
 
 ## Reference
 
