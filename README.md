@@ -28,4 +28,4 @@ A stylized hand-rendered result is seen on cover of report.
 
 ## Reference
 
-An image of my inspiration for this project is Caycedo.pdf
+An image of my inspiration for this project is Caycedo.png
